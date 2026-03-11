@@ -1,5 +1,3 @@
 # PYTEST
-test app
-welcome
+test app welcome
 
-adding new test feature on our application
